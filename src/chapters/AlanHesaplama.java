@@ -8,5 +8,6 @@ public class AlanHesaplama {
         alan= yaricap*yaricap*3.14159;
         //alanı yazdır
         System.out.println("yaricapi "+ yaricap+" olan cemberin alanı : "+ alan +" dir");
+        
     }
 }
